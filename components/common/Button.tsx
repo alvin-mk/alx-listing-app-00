@@ -1,4 +1,4 @@
-// components/common/Button.tsx
+// components/common/Button.tsx - root
 import React from 'react';
  import { ButtonProps } from '../../interfaces';
 
